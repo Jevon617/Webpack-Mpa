@@ -1,0 +1,16 @@
+1. 每个文件夹就会生成一个html文件, 文件夹内部可以使用vue作为组件
+2. 开发环境下热更新
+3. 理想中的项目结构
+
+----src
+      |
+      |----index
+      |            | --- images
+      |            | --- components
+      |            | --- index.js
+      |            | --- index.html
+      |----mobile
+      |            | --- images
+      |            | --- components
+      |            | --- index.js
+      |            | --- index.html
